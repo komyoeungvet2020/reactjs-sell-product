@@ -1,0 +1,219 @@
+{
+    "list_api": [
+          {
+              "id": 1,
+              "watch": {
+                "name": "Rolex 1",
+                "amount": "30.00",
+                "image": "https://i1.wp.com/www.watchcollectors.co.uk/wp-content/uploads/2019/01/Rolex-Submariner-16618-18K-Yellow-Gold-Blue-Second-Hand-Watch-Collectors-3.jpg",
+                "description": "This impressive paella is a perfect party dish and a fun meal to cook"
+              },
+              "computer": {
+                "name": "Dell",
+                "amount": "800.00",
+                "image": "https://www.bhphotovideo.com/images/images2500x2500/lenovo_81mv00mbus_ideapad_s145_celeron_4205u_1542747.jpg",
+                "description": "Dell IdeaPad S500 14"
+              }
+          },
+          {
+            "id": 2,
+            "watch": {
+                "name": "Rolex 2",
+                "amount": "40.00",
+                "image": "https://www.uhrenworld.com/media/images/org/203222_1.jpg",
+                "description": "This impressive paella is a perfect party dish and a fun meal to cook"
+              },
+            "computer": {
+              "name": "HP",
+              "amount": "400.00",
+              "image": "https://www.bhphotovideo.com/images/images2500x2500/lenovo_81mv00mbus_ideapad_s145_celeron_4205u_1542747.jpg",
+              "description": "HP IdeaPad S500 14"
+            }
+          },
+          {
+            "id": 3,
+            "watch": {
+                "name": "Rolex 3",
+                "amount": "50.00",
+                "image": "https://amsterdamvintagewatches.com/wp-content/uploads/2019/02/AVW-Rolex-18038-4772-4-Close.jpg",
+                "description": "This impressive paella is a perfect party dish and a fun meal to cook"
+              },
+            "computer": {
+              "name": "ACER",
+              "amount": "500.00",
+              "image": "https://www.bhphotovideo.com/images/images2500x2500/lenovo_81mv00mbus_ideapad_s145_celeron_4205u_1542747.jpg",
+              "description": "ACER IdeaPad S500 14"
+            }
+          },
+          {
+            "id": 4,
+            "watch": {
+                "name": "Rolex 4",
+                "amount": "20.00",
+                "image": "https://www.uhrenworld.com/media/images/org/203222_1.jpg",
+                "description": "This impressive paella is a perfect party dish and a fun meal to cook"
+              },
+              "computer": {
+                "name": "Lenovo",
+                "amount": "600.00",
+                "image": "https://www.bhphotovideo.com/images/images2500x2500/lenovo_81mv00mbus_ideapad_s145_celeron_4205u_1542747.jpg",
+                "description": "Lenovo IdeaPad S500 14"
+            }
+         }
+      ],
+
+      "api_detail": [
+        {
+            "id": 1,
+            "watch": {
+              "name": "Rolex 1",
+              "image": "https://amsterdamvintagewatches.com/wp-content/uploads/2019/02/AVW-Rolex-18038-4772-4-Close.jpg",
+              "description": "This impressive paella is a perfect party dish and a fun meal to cook"
+            },
+            "computer": {
+              "name": "Dell",
+              "amount": "900.00",
+              "image": "http://cdn.mos.cms.futurecdn.net/75eb98aab244f77047d6435f42f7d460-1200-80.jpg",
+              "description": "Dell IdeaPad S500 14"
+            },
+            "phone": {
+                "name": "OPPO",
+                "image": "https://cdn.mos.cms.futurecdn.net/fmvHKrrEtTParjkThaBpfU-1200-80.jpg",
+                "description": "OPPO IdeaPad S500 14"
+              }
+        },
+        {
+          "id": 2,
+          "watch": {
+              "name": "Rolex 2",
+              "image": "https://i1.wp.com/www.watchcollectors.co.uk/wp-content/uploads/2019/01/Rolex-Submariner-16618-18K-Yellow-Gold-Blue-Second-Hand-Watch-Collectors-3.jpg",
+              "description": "This impressive paella is a perfect party dish and a fun meal to cook"
+            },
+          "computer": {
+            "name": "HP",
+            "amount": "400.00",
+            "image": "https://www.bhphotovideo.com/images/images2500x2500/lenovo_81mv00mbus_ideapad_s145_celeron_4205u_1542747.jpg",
+            "description": "HP IdeaPad S500 14"
+          },
+          "phone": {
+            "name": "Huawei",
+            "image": "https://www.whatmobile.com.pk/control/news/assets/27032021/08ccb16a1e0d7f22acaf9637e1120ae0.jpg",
+            "description": "Huawei IdeaPad S500 14"
+          }
+        },
+        {
+          "id": 3,
+          "watch": {
+              "name": "Rolex 3",
+              "image": "https://www.uhrenworld.com/media/images/org/203222_1.jpg",
+              "description": "This impressive paella is a perfect party dish and a fun meal to cook"
+            },
+          "computer": {
+            "name": "ACER",
+            "amount": "500.00",
+            "image": "http://cdn.mos.cms.futurecdn.net/75eb98aab244f77047d6435f42f7d460-1200-80.jpg",
+            "description": "ACER IdeaPad S500 14"
+          },
+          "phone": {
+            "name": "Samsung",
+            "image": "https://cdn.mos.cms.futurecdn.net/fmvHKrrEtTParjkThaBpfU-1200-80.jpg",
+            "description": "Samsung IdeaPad S500 14"
+          }
+        },
+        {
+          "id": 4,
+          "watch": {
+              "name": "Rolex 4",
+              "image": "https://amsterdamvintagewatches.com/wp-content/uploads/2019/02/AVW-Rolex-18038-4772-4-Close.jpg",
+              "description": "This impressive paella is a perfect party dish and a fun meal to cook"
+            },
+            "computer": {
+              "name": "Lenovo",
+              "amount": "600.00",
+              "image": "https://www.bhphotovideo.com/images/images2500x2500/lenovo_81mv00mbus_ideapad_s145_celeron_4205u_1542747.jpg",
+              "description": "Lenovo IdeaPad S500 14"
+          },
+          "phone": {
+            "name": "Vivo",
+            "image": "https://cdn.mos.cms.futurecdn.net/fmvHKrrEtTParjkThaBpfU-1200-80.jpg",
+            "description": "Vivo IdeaPad S500 14"
+          }
+       },
+       {
+        "id": 5,
+        "watch": {
+            "name": "Rolex 5",
+            "image": "https://i1.wp.com/www.watchcollectors.co.uk/wp-content/uploads/2019/01/Rolex-Submariner-16618-18K-Yellow-Gold-Blue-Second-Hand-Watch-Collectors-3.jpg",
+            "description": "This impressive paella is a perfect party dish and a fun meal to cook"
+          },
+          "computer": {
+            "name": "Philips",
+            "amount": "600.00",
+            "image": "http://cdn.mos.cms.futurecdn.net/75eb98aab244f77047d6435f42f7d460-1200-80.jpg",
+            "description": "Philips IdeaPad S500 14"
+        },
+        "phone": {
+          "name": "Realme",
+          "image": "https://cdn.mos.cms.futurecdn.net/fmvHKrrEtTParjkThaBpfU-1200-80.jpg",
+          "description": "Realme IdeaPad S500 14"
+        }
+     },
+     {
+        "id": 6,
+        "watch": {
+            "name": "Rolex 6",
+            "image": "https://i1.wp.com/www.watchcollectors.co.uk/wp-content/uploads/2019/01/Rolex-Submariner-16618-18K-Yellow-Gold-Blue-Second-Hand-Watch-Collectors-3.jpg",
+            "description": "This impressive paella is a perfect party dish and a fun meal to cook"
+          },
+          "computer": {
+            "name": "ASUS",
+            "amount": "600.00",
+            "image": "https://www.bhphotovideo.com/images/images2500x2500/lenovo_81mv00mbus_ideapad_s145_celeron_4205u_1542747.jpg",
+            "description": "Lenovo IdeaPad S500 14"
+        },
+        "phone": {
+          "name": "Xiaomi",
+          "image": "https://www.whatmobile.com.pk/control/news/assets/27032021/08ccb16a1e0d7f22acaf9637e1120ae0.jpg",
+          "description": "Xiaomi IdeaPad S500 14"
+        }
+     },
+     {
+        "id": 7,
+        "watch": {
+            "name": "Rolex 7",
+            "image": "https://www.uhrenworld.com/media/images/org/203222_1.jpg",
+            "description": "This impressive paella is a perfect party dish and a fun meal to cook"
+          },
+          "computer": {
+            "name": "Lenovo",
+            "amount": "600.00",
+            "image": "http://cdn.mos.cms.futurecdn.net/75eb98aab244f77047d6435f42f7d460-1200-80.jpg",
+            "description": "Lenovo IdeaPad S500 14"
+        },
+        "phone": {
+          "name": "IPhone 12 Pro",
+          "image": "https://cdn.mos.cms.futurecdn.net/fmvHKrrEtTParjkThaBpfU-1200-80.jpg",
+          "description": "IPhone 12 Pro IdeaPad S500 14"
+        }
+     },
+     {
+        "id": 8,
+        "watch": {
+            "name": "Rolex 8",
+            "image": "https://www.uhrenworld.com/media/images/org/203222_1.jpg",
+            "description": "This impressive paella is a perfect party dish and a fun meal to cook"
+          },
+          "computer": {
+            "name": "Mac Book",
+            "amount": "600.00",
+            "image": "https://www.bhphotovideo.com/images/images2500x2500/lenovo_81mv00mbus_ideapad_s145_celeron_4205u_1542747.jpg",
+            "description": "Mac Book IdeaPad S500 14"
+        },
+        "phone": {
+          "name": "IPhone 13 Pro",
+          "image": "https://www.whatmobile.com.pk/control/news/assets/27032021/08ccb16a1e0d7f22acaf9637e1120ae0.jpg",
+          "description": "IPhone 13 Pro IdeaPad S500 14"
+        }
+     }
+    ]
+}
